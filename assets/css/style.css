@@ -1,17 +1,10 @@
 body {
   font-family: Roboto;
-  margin: 0;
-  padding: 0;
   background-color: #ffffff;
 }
 /* list style - none*/
 ul {
   list-style-type: none;
-}
-
-/* text-deca*/
-a {
-  text-decoration: none;
 }
 
 /* logo and nav */
